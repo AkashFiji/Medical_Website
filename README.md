@@ -42,12 +42,27 @@ Below are the main screens from the website:
 ### 1. Home Page
 ![Home Page](./screenshots/home.png)
 
-### 2. Admin Dashboard
+### 2. Our Service 
+![Service Page](./screenshots/service.png)
+
+### 3. Our Team 
+![Team Page](./screenshots/team.png)
+
+### 4. Our Blogs 
+![Blog Page](./screenshots/blogs.png)
+
+### 5. Sign Up
+![Sign Up Page](./screenshots/signup.png)
+
+### 6. Sign In
+![Sign in Page](./screenshots/signin.png)
+
+### 7. Admin Dashboard
 ![Admin Dashboard](./screenshots/admin.png)
 
-### 3. Patient Dashboard
+### 8. Patient Dashboard
 ![Patient Dashboard](./screenshots/patient.png)
 
-### 4. Doctor Dashboard
+### 9. Doctor Dashboard
 ![Doctor Dashboard](./screenshots/doctor.png)
 
